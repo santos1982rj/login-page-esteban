@@ -33,7 +33,7 @@ Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/)
 
 ### Prototipagem do projeto ( Figma )
 
-Aqui vai todos os créditos e minha gratidão a <a href="https://www.figma.com/@estebancr">Esteban Castaño Rivera</a> por disponilizar essa peça para comunidade. Tem sido de grande ajuda no desenvolvimento de minhas habulidades.
+Aqui vão todos os créditos e minha gratidão a <a href="https://www.figma.com/@estebancr">Esteban Castaño Rivera</a> por disponilizar essa peça para comunidade. Tem sido de grande ajuda no desenvolvimento de minhas habilidades.
 ##### Que tal praticar um pouco também?
 Abaixo segue link do Figma.
 ```
