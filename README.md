@@ -2,11 +2,11 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/santos1982rj/login-page-esteban/7e8b0c0a5232e7c412dc940d7c21b878cfc86639/img/thumb-light.jpg" />
-<img src="https://github.com/santos1982rj/login-page-esteban/blob/7e8b0c0a5232e7c412dc940d7c21b878cfc86639/img/thumb-dark.jpg" />
+<img height="225em" src="https://raw.githubusercontent.com/santos1982rj/login-page-esteban/7e8b0c0a5232e7c412dc940d7c21b878cfc86639/img/thumb-light.jpg" />
+<img height="225em" src="https://github.com/santos1982rj/login-page-esteban/blob/7e8b0c0a5232e7c412dc940d7c21b878cfc86639/img/thumb-dark.jpg" />
 </p>
 
-## Sobre o Projeto:
+## Sobre o Projeto: 
 
 Navegando pelos projeto na comunidade do Figma, me deparei com essa página de login criada por Esteban Castaño Rivera.
 
